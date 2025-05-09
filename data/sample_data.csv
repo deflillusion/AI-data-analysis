@@ -1,0 +1,4 @@
+client_id,tx_date,tx_amount,tx_category
+     1,2023-01-01,50.0,groceries
+     1,2023-01-02,20.0,transport
+     2,2023-01-01,100.0,entertainment
